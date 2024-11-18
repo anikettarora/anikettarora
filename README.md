@@ -11,7 +11,7 @@ I'm a CSE student with a passion for technology and innovation. I love turning i
 ## 🔧 Technologies & Tools
 
 - **Languages:** Java, Python, C++, JavaScript
-- **Frameworks:** React.js, Node.js, Express.js, Rasa
+- **Frameworks:** React.js, Node.js, Express.js, Tensorflow
 - **Databases:** MongoDB, MySQL
 
 ## 📫 Let's Connect
